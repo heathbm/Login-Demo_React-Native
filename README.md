@@ -1,6 +1,6 @@
 # Login-Demo_React-Native
 
-Login screen with demo view written in JavaScript with React-Native 0.41
+Login screen with demo component written in JavaScript with React-Native 0.41
 
 Dynamic Login screen using KeyboardAvoidingView:
 
